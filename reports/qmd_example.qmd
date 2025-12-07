@@ -4,6 +4,9 @@ author: "Tiffany Timbers & Jordan Bourak"
 format: html
 editor: source
 bibliography: references.bib 
+execute: 
+    echo: false
+    
 ---
 
 ```{python}
